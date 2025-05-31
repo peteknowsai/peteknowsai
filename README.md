@@ -10,13 +10,10 @@ Builder first, Product Manager second. I create software that solves tangible bu
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peteknowsai&show_icons=true&theme=dark&hide_border=true" alt="Pete's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peteknowsai&theme=dark&hide_border=true" alt="Pete's GitHub streak" />
-</p>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=peteknowsai&show_icons=true&theme=dark&hide_border=true&hide_rank=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peteknowsai&layout=compact&theme=dark&hide_border=true" />
+</div>
 
 ## 🛠️ Tech Stack
 
