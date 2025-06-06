@@ -8,6 +8,39 @@ I'm passionate about AI, agent frameworks, and building innovative solutions tha
 
 Builder first, Product Manager second. I create software that solves tangible business challenges—from founding startups to modernizing critical systems.
 
+## 🔥 Claude Code Mafia
+
+<div align="center">
+  <h3>Leading cutting-edge AI development at <a href="https://github.com/claude-code-mafia">@claude-code-mafia</a></h3>
+  <p>Building the future of AI-assisted development with Claude</p>
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/claude-code-mafia/claude-cells">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=claude-code-mafia&repo=claude-cells&theme=dark&hide_border=true" />
+        </a>
+        <br>
+        <sub><b>Living AI Cells</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/claude-code-mafia/md-agents">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=claude-code-mafia&repo=md-agents&theme=dark&hide_border=true" />
+        </a>
+        <br>
+        <sub><b>Markdown Agents</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/claude-code-mafia/tool-library">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=claude-code-mafia&repo=tool-library&theme=dark&hide_border=true" />
+        </a>
+        <br>
+        <sub><b>Claude CLI Tools</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -58,8 +91,8 @@ Builder first, Product Manager second. I create software that solves tangible bu
       <a href="https://github.com/peteknowsai/ai-sdlc">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=peteknowsai&repo=ai-sdlc&theme=dark&hide_border=true" />
       </a>
-      <a href="https://github.com/peteknowsai/financial-mcp-servers">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peteknowsai&repo=financial-mcp-servers&theme=dark&hide_border=true" />
+      <a href="https://github.com/peteknowsai/claude-habitat">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peteknowsai&repo=claude-habitat&theme=dark&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -71,6 +104,7 @@ Builder first, Product Manager second. I create software that solves tangible bu
 - 🚀 Exploring AI-assisted software development workflows  
 - 🛠️ Creating tools that make AI more accessible to developers
 - 🌐 Developing Model Context Protocol (MCP) servers
+- 🔥 Leading the Claude Code Mafia organization
 
 ## 📫 Let's Connect
 
